@@ -1,5 +1,5 @@
 # LampStore
-Swift + Ulkit + MVVM 
+Swift + Ulkit + MVVM + Coordinator
 
 
 <img width="313" alt="image" src="https://github.com/user-attachments/assets/62e242ec-4fde-4c0b-9aa9-7ef0e514d616" />
